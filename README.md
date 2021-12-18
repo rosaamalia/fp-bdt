@@ -1,20 +1,16 @@
 # Final Project Basis Data Terdistribusi
 ## Deskripsi Aplikasi
-Aplikasi koleksi film **Reshow** untuk mencari referensi film.
+Aplikasi untuk membuat undangan digital yang diambil dari referensi Invita.id. Proyek ini menggunakan aplikasi final project mata kuliah MPPL Kelompok B01.
 
 Fitur yang disediakan:
-- Mencari film menggunakan kata kunci
-- Mendapatkan detail informasi suatu film
-- Membuat akun dan melakukan login akun. Untuk pengguna yang memiliki akun, fitur lain yang dapat dilakukan:
-   - Membuat ulasan pada sebuah film, mengedit ulasan film yang pernah dibuat, menghapus ulasan film
-   - Membuat *watchlist*, mengedit *watchlist*, menghapus *watchlist*
+- Melakukan login/signup akun pelanggan, mengedit informasi akun pelanggan
+- Membuat transaksi undangan (Membuat undangan, melihat undangan, mengedit undangan)
+- Menambahkan tamu di buku tamu
+- Membuat review
 
 Basis data yang digunakan:
-- Replikasi MySQL untuk menyimpan data akun dan data *watchlist*.
-- MongoDB untuk menyimpan data film dan ulasan film.
-
-Dataset yang digunakan:
-- Mflix MongoDB Dataset Sample 
+- Replikasi MySQL untuk menyimpan data akun dan data pembayaran.
+- MongoDB untuk menyimpan data order, data tamu dan review pelanggan.
 
 ## Arsitektur Aplikasi
 
