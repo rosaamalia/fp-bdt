@@ -1,0 +1,48 @@
+@media only screen and (max-width: 360px) {
+}
+@media only screen and (min-width: 360px) {
+}
+@media only screen and (min-width: 576px) {
+}
+
+@media only screen and (min-width: 768px) {
+}
+@media only screen and (min-width: 992px) {
+}
+@media only screen and (min-width: 1200px) {
+}
+@media only screen and (min-width: 1400px) {
+}
+
+html {
+    font-size: 10px;
+}
+
+section.jumbotron {
+    background: rgb(0, 153, 255);
+    background: linear-gradient(
+        180deg,
+        rgba(0, 153, 255, 1) 0%,
+        rgba(0, 157, 255, 0.965) 20%,
+        rgba(0, 194, 255, 0.65) 100%
+    );
+}
+
+.row-svg-jb {
+    margin-top: -150px;
+}
+
+.button:hover {
+    opacity: 0.75;
+}
+
+.button {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px;
+    opacity: 1;
+    transition: opacity 0.2s ease;
+}
+
+a {
+    text-decoration: none;
+}

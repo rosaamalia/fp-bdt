@@ -1,0 +1,48 @@
+@media only screen and (max-width: 360px) {
+    .col-harga {
+        margin-bottom: 105px;
+    }
+}
+@media only screen and (min-width: 360px) {
+    .col-harga {
+        margin-bottom: 105px;
+    }
+}
+@media only screen and (min-width: 576px) {
+}
+
+@media only screen and (min-width: 768px) {
+}
+@media only screen and (min-width: 992px) {
+    .col-harga {
+        margin-bottom: 0;
+    }
+}
+@media only screen and (min-width: 1200px) {
+}
+@media only screen and (min-width: 1400px) {
+}
+
+html {
+    font-size: 10px;
+}
+
+.btn:hover {
+    opacity: 0.75;
+}
+
+.btn {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px;
+    opacity: 1;
+    transition: opacity 0.2s ease;
+}
+
+ul {
+    list-style-position: inside;
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+}

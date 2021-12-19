@@ -1,0 +1,40 @@
+@media only screen and (max-width: 360px) {
+}
+@media only screen and (min-width: 360px) {
+}
+@media only screen and (min-width: 576px) {
+}
+
+@media only screen and (min-width: 768px) {
+}
+@media only screen and (min-width: 992px) {
+}
+@media only screen and (min-width: 1200px) {
+}
+@media only screen and (min-width: 1400px) {
+}
+
+html {
+  font-size: 10px;
+}
+.container-fluid {
+  background: rgb(34, 122, 255);
+  background: linear-gradient(180deg, rgba(34, 122, 255, 1) 0%, rgba(95, 213, 251, 1) 100%);
+}
+
+.btn:hover {
+  opacity: 0.75;
+}
+
+.btn {
+  border-radius: 10px;
+  opacity: 1;
+  transition: opacity 0.2s ease;
+}
+
+.icon-form {
+  background-color: #ccc;
+  /* background: rgb(34, 122, 255);
+  background: linear-gradient(180deg, rgba(34, 122, 255, 1) 0%, rgba(95, 213, 251, 1) 100%); */
+  border-radius: 10px 0 0 10px;
+}
