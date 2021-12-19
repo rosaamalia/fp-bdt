@@ -28,4 +28,5 @@ Basis data yang digunakan:
 
 ## Dokumentasi
 Link Youtube: https://youtu.be/TnZXuouQHxU
+
 Link laporan : https://ossified-horse-15e.notion.site/Laporan-Final-Project-Basis-Data-Terdistribusi-d68bf1b5facf4b8987384a34ccbfd655
